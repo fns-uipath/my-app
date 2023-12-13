@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://fns-uipath.github.io/sample2/",
+    "homepage": "https://fns-uipath.github.io/my-app",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
